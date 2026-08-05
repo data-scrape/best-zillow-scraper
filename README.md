@@ -35,38 +35,6 @@
 
 
 
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/data-scrape/best-zillow-scraper?style=social)](https://github.com/data-scrape/best-zillow-scraper)
-[![GitHub forks](https://img.shields.io/github/forks/data-scrape/best-zillow-scraper?style=social)](https://github.com/data-scrape/best-zillow-scraper/fork)
-[![GitHub issues](https://img.shields.io/github/issues/data-scrape/best-zillow-scraper)](https://github.com/data-scrape/best-zillow-scraper/issues)
-[![GitHub license](https://img.shields.io/github/license/data-scrape/best-zillow-scraper)](https://github.com/data-scrape/best-zillow-scraper/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
-
-</div>
-
-
-> Best Zillow scraper 2025 - extract property listings and agent data
-
-
-<!-- SEO keywords: best zillow scraper, Best Zillow Scraper, best zillow scraper python, best zillow scraper github, best best zillow scraper -->
-
-
-<div align="center">
-
-[![CoreClaw](https://img.shields.io/badge/CoreClaw-Data_Scraping_Platform-7B2FF7?style=for-the-badge&labelColor=5B21B6)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-**The All-in-One Web Scraping & Data Platform** — Scrape Google Maps, Instagram, Amazon, LinkedIn, TikTok, YouTube, and 50+ platforms via ready-to-use REST APIs.
-
-✅ No browser automation · ✅ No proxy management · ✅ Free credits for new users
-
-⬇️ [Get Started with CoreClaw Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-</div>
-
----
-
-
 > Looking for the **best Zillow Scraper**?
 
 [CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7) provides production-ready Zillow data APIs for extracting public property listings, rental listings, home values, agents, and real estate market data.
